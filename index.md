@@ -7,10 +7,9 @@
       <p><b>西安电子科技大学大学人工智能学院</b></p>
       <p><b>邮箱：523184685@qq.com@qq.com</b></p>
       <p><b>地址：陕西省西安市太白南路2号西安电子科技大学，邮编710071</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/liupenghui.jpg" width="100%">
     </td>
   </tr>
 </table>
