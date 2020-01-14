@@ -35,13 +35,6 @@
 - P. Liu, J. Liu, Good influence transmission structure strengthens cooperation in prisoner’s dilemma games，The European Physical Journal B, 91, 321，2018。
 
 ### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
-
-#### 公司/学校/研究所（2017.9~至今）
 - **以图搜图**  
 图像检索任务，利用特征点匹配算法以及KD搜索树完成在包含18W张图片数据库上的图像检索任务，为了降低RANSC一致性检验过程的计算复杂度，引入了几何快排算法。最终单张图片在单机18W张图片上的匹配速度约为10s。
 - **快速扫码**  
